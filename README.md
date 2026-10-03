@@ -111,6 +111,8 @@ A firewall rule was created on the Linux virtual machine to block incoming ICMP 
 
 The purpose of this rule was to restrict a specific network protocol and observe how the change affected communication. After applying the rule, ICMP connectivity could be tested again to compare the results before and after the traffic was blocked.
 
+<img width="1478" height="757" alt="Screenshot 2026-10-03 143100" src="https://github.com/user-attachments/assets/8f924ace-03b6-4c74-ae73-3ec7b2cc547d" />
+
 ---
 
 # Key Takeaways
