@@ -73,8 +73,10 @@ A Linux firewall rule was created to prevent incoming ICMP traffic. The connecti
 
 ## 1. Capturing Network Traffic
 
+<img width="1482" height="995" alt="Screenshot 2026-10-03 135219" src="https://github.com/user-attachments/assets/fce13ece-76fe-4e62-b3b0-7859ed082c3e" />
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Wireshark network traffic capture"/>
+
 </p>
 
 Wireshark was used to capture traffic generated during the lab. The packet capture provides a detailed view of network communication and allows individual packets to be examined.
@@ -86,7 +88,9 @@ This made it possible to see traffic between the virtual machines and identify t
 ## 2. Examining ICMP Traffic
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="ICMP traffic captured in Wireshark"/>
+
+<img width="1486" height="746" alt="Screenshot 2026-10-03 140257" src="https://github.com/user-attachments/assets/686b8080-e7dc-4a4e-a0f0-21e4708e62bc" />
+
 </p>
 
 The captured traffic was examined in Wireshark to identify **ICMP packets**. ICMP is commonly used for network connectivity testing, such as when using the `ping` command.
@@ -98,7 +102,9 @@ By examining the packets, I was able to see the source and destination systems a
 ## 3. Blocking Incoming ICMP Traffic on Linux
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Linux firewall rule blocking incoming ICMP traffic"/>
+
+<img width="1906" height="845" alt="Screenshot 2026-10-03 141619" src="https://github.com/user-attachments/assets/9ad52bc7-d083-4396-b618-c9d1efb83f8c" />
+
 </p>
 
 A firewall rule was created on the Linux virtual machine to block incoming ICMP traffic.
