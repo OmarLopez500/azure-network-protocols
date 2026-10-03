@@ -77,7 +77,7 @@ Test the connection again after changing the security rules and use Wireshark to
 ## 1. Capturing Network Traffic
 
 <p>
-<img<img width="1482" height="995" alt="Screenshot 2026-10-03 135219" src="https://github.com/user-attachments/assets/b2591ea5-df99-40f7-8120-16433b112807" />
+<img width="1482" height="995" alt="Screenshot 2026-10-03 135219" src="https://github.com/user-attachments/assets/b2591ea5-df99-40f7-8120-16433b112807" />
  />
 </p>
 
@@ -103,7 +103,7 @@ Looking at individual packets provides information such as source and destinatio
 ## 3. Testing Network Security Rules
 
 <p>
-<img<img width="1906" height="845" alt="Screenshot 2026-10-03 141619" src="https://github.com/user-attachments/assets/9576f8c6-ffe7-49ce-a688-9aaa1d6eb9fb" />
+<img width="1906" height="845" alt="Screenshot 2026-10-03 141619" src="https://github.com/user-attachments/assets/9576f8c6-ffe7-49ce-a688-9aaa1d6eb9fb" />
  />
 </p>
 
