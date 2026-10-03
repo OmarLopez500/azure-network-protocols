@@ -78,7 +78,7 @@ Test the connection again after changing the security rules and use Wireshark to
 
 <p>
 <img width="1482" height="995" alt="Screenshot 2026-10-03 135219" src="https://github.com/user-attachments/assets/b2591ea5-df99-40f7-8120-16433b112807" />
- />
+ 
 </p>
 
 Wireshark was used to monitor traffic moving between the virtual machines. Packet captures can be filtered to make it easier to identify specific protocols and types of communication.
@@ -90,8 +90,8 @@ During this portion of the lab, traffic such as ICMP, DNS, TCP, and other networ
 ## 2. Examining Network Protocols
 
 <p>
-<img<img width="1486" height="746" alt="Screenshot 2026-10-03 140257" src="https://github.com/user-attachments/assets/480a68ed-0fa6-4805-987c-86488889322d" />
- />
+<img width="1486" height="746" alt="Screenshot 2026-10-03 140257" src="https://github.com/user-attachments/assets/480a68ed-0fa6-4805-987c-86488889322d" />
+ 
 </p>
 
 The captured packets can be inspected to determine which protocols are being used and how devices communicate across the network.
@@ -104,7 +104,7 @@ Looking at individual packets provides information such as source and destinatio
 
 <p>
 <img width="1906" height="845" alt="Screenshot 2026-10-03 141619" src="https://github.com/user-attachments/assets/9576f8c6-ffe7-49ce-a688-9aaa1d6eb9fb" />
- />
+ 
 </p>
 
 Azure Network Security Groups were used to control network access between the virtual machines.
